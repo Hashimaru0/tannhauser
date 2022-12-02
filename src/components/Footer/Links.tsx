@@ -110,7 +110,7 @@ const Links = () => {
         </div>
         <div className="flex flex-col lg:flex-row justify-between items-center mt-10">
           <div className="text-2xl sm:text-2xl">Tannhäuser</div>
-          <div className="flex flex-col mt-10 lg:mt-0 lg:flex-row lg:gap-10">
+          <div className="flex flex-col lg:flex-row items-center mt-10 lg:mt-0 lg:gap-10">
             <div className="text-xs mt-1 opacity-30 hover:opacity-80 transition cursor-pointer">
               TERMS & CONDITIONS
             </div>
