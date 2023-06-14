@@ -1,7 +1,7 @@
-# Tannhäuser
+# [Tannhäuser](https://tannhauser.netlify.app/)
 #### Business / Framer Motion / Component Lifecycle Animations
-Starline transport company.  
-Live demo: https://tannhauser.netlify.app/
+Starline transport company.
+
 ## How It Works
 
 ### Page Transition Animations
